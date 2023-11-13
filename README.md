@@ -29,5 +29,7 @@ Terrorism Database
 The Terrorism Database contains information about terrorist attacks worldwide. It includes details such as the date, location, attack type, weapons used, number of casualties, and responsible groups.The task is to create a Power BI dashboard that provides a comprehensive overview of global terrorism trends and patterns.
 
 ### Dashboard:
-
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Intern_Career/assets/112754746/9ec2a65d-7b64-439e-9d30-9d4aa4def8a1"  height="550" width="900"/>
+</div>
 
