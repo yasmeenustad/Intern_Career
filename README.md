@@ -1,7 +1,11 @@
 # Intern_Career
 During my month-long internship at Intern Career, this repository details my initiatives as a Data Analyst, including in-depth analysis of
 
-Task 1: YouTube Streamer Analysis:
+Task 1: YouTube Streamer Analysis (Using Python)
+
+Task 2: Power BI Dashboard Creation - Terrorism Database (Using Power BI)
+
+These tasks underscore my proficiency in leveraging Python for analytical insights and crafting dynamic visualizations using Power BI within a professional context.
 
 <div id="header" align="center">
     <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/39cb359c-de2e-4c73-8436-058e6970f578"  height="350" width="800"/>
