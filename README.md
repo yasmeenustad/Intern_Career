@@ -49,7 +49,7 @@ The Terrorism Database contains information about terrorist attacks worldwide. I
     <img src="https://github.com/yasmeenustad/Intern_Career/assets/112754746/9ec2a65d-7b64-439e-9d30-9d4aa4def8a1"  height="550" width="900"/>
 </div>
 
-### Insights:
+### <img src="https://github.com/yasmeenustad/Intern_Career/assets/112754746/6e067730-8c85-4a3f-8888-57a5f5f82086"  width="50" height="50"> Insights:
 <div id="header" align="center">
     <img src="https://github.com/yasmeenustad/Intern_Career/assets/112754746/953eb5b6-d944-4de7-ae2e-c6cd9a66805f"  height="550" width="900"/>
 </div>
