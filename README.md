@@ -1,4 +1,4 @@
-# Intern_Career
+# Intern Career Internship:
 During my month-long internship at Intern Career, this repository details my initiatives as a Data Analyst, including in-depth analysis of
 
 Task 1: YouTube Streamer Analysis (Using Python)
