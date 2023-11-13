@@ -1,4 +1,4 @@
-# Intern Career Internship:
+# Intern Career Internship <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> :
 During my month-long internship at Intern Career, this repository details my initiatives as a Data Analyst, including in-depth analysis of
 
 Task 1: YouTube Streamer Analysis (Using Python)
