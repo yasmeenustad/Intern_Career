@@ -8,7 +8,7 @@ Task 2: Power BI Dashboard Creation - Terrorism Database (Using Power BI)
 
 These tasks underscore my proficiency in leveraging Python for analytical insights and crafting dynamic visualizations using Power BI within a professional context.
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Intern_Career/assets/112754746/f894df7d-45f5-43ca-951d-23aa7702640e"  height="400" width="800"/>
+    <img src="https://github.com/yasmeenustad/Intern_Career/assets/112754746/f894df7d-45f5-43ca-951d-23aa7702640e"  height="350" width="700"/>
 </div>
 
 ## Task 1: YouTube Streamer Analysis:
